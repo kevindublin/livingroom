@@ -95,9 +95,9 @@
               <p><link rel="stylesheet"  href="../static/css/contact.css"></p>
 <p>Would you like to be a community partner for an event that's related to one of our future themes or propose a theme? Are you past attendee who'd like to suggest a theme? Potential future reader? Feel free to send along any messages or inquiries directly to our inbox.</p>
 <form accept-charset="UTF-8" action="https://formsubmit.co/292e33a39fac027d1fbeb4b890e226f1" method="POST">
-  <input type="text" size="12" name="name" class="input details" placeholder="Your Name" style="margin-top:10px"/>
-  <input type="email" size="12" name="email" class="input details" placeholder="Your Email" style="margin-top:10px"/>
-  <textarea rows="10" cols="40" name="message" class="textarea message" placeholder="Your Message" style="margin-top:10px"></textarea>
+  <input type="text" name="name" class="input details" placeholder="Your Name" style="margin-top:10px"/>
+  <input type="email" name="email" class="input details" placeholder="Your Email" style="margin-top:10px"/>
+  <textarea rows="10" name="message" class="textarea message" placeholder="Your Message" style="margin-top:10px"></textarea>
   <input type="text" name="_honey" style="display: none;">
   <br>
   <button type="submit" id="submit-form" class="button is-medium" 
@@ -111,10 +111,12 @@
     <div id="body-class" style="display: none;" class=""></div>
   
     <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
-          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
+      <div class="inner" style="margin-top:20px;">
+        <section class="mailing-list">
+          <div class="ml-form-embed"
+          		data-account="3554354:k9z4m0l8e2"
+          		data-form="4951505:j8f7x6">
+          </div>
         </section>
       </div>
     </footer>
@@ -122,5 +124,14 @@
 
   <script type="text/javascript" src="../theme/js/script.js"></script>
   
+<script>
+(function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+_.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+var ml_account = ml('accounts', '3554354', 'k9z4m0l8e2', 'load');
+</script>
 </body>
 </html>
