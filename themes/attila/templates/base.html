@@ -131,10 +131,12 @@
     <div id="body-class" style="display: none;" class="{{body_class}}"></div>
   
     <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
-          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
+      <div class="inner" style="margin-top:20px;">
+        <section class="mailing-list">
+          <div class="ml-form-embed"
+          		data-account="3554354:k9z4m0l8e2"
+          		data-form="4951505:j8f7x6">
+          </div>
         </section>
       </div>
     </footer>
@@ -149,6 +151,7 @@
     {% endfor %}
   {% endif %}
   {% include 'partials/analytics.js' %}
+  {% include 'partials/mailerlite.js' %}
   {% include 'partials/disqus.js' %}
 </body>
 </html>

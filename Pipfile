@@ -8,6 +8,7 @@ beautifulsoup4 = "*"
 pelican-sitemap = "*"
 lxml = "*"
 invoke = "*"
+ghp-import = "*"
 
 [dev-packages]
 

@@ -12,12 +12,12 @@ Each hour long event will have a theme and a community partner that we support, 
 
 Most events will have the structure:
 
-- 4 minutes introduction to theme, readers, & community partner
-- 1 minute group deep breathing
+- 2 minutes introduction to theme
+- 3 minutes word from community partner
 - 15-20 minutes first set of readers
-- 15 minutes open discussion of theme, mingling over drinks, community partner shoutout
+- 15 minutes open discussion of theme among audience, community partner shoutout
 - 10-15 minutes second set of readers
-- 2 minute close and invitation for food & drinks, final community partner shoutout
+- 2 minute in closing and final community partner shoutout
 
 If you had to sum up the spirt of the show in  a poem, it might come closest with "The Guest House" by Jalāl ad-Dīn Mohammad Rūmī, the 13th century Persian poet who reminds us to welcome, be grateful for the full range of human emotion and experience because of what it might lead to, and to be empathetic to others who may be experiencing a guest different than your own at the moment:
 

@@ -10,9 +10,9 @@ Would you like to be a community partner for an event that's related to one of o
 
 
 <form accept-charset="UTF-8" action="https://formsubmit.co/292e33a39fac027d1fbeb4b890e226f1" method="POST">
-  <input type="text" size="12" name="name" class="input details" placeholder="Your Name" style="margin-top:10px"/>
-  <input type="email" size="12" name="email" class="input details" placeholder="Your Email" style="margin-top:10px"/>
-  <textarea rows="10" cols="40" name="message" class="textarea message" placeholder="Your Message" style="margin-top:10px"></textarea>
+  <input type="text" name="name" class="input details" placeholder="Your Name" style="margin-top:10px"/>
+  <input type="email" name="email" class="input details" placeholder="Your Email" style="margin-top:10px"/>
+  <textarea rows="10" name="message" class="textarea message" placeholder="Your Message" style="margin-top:10px"></textarea>
   <input type="text" name="_honey" style="display: none;">
   <br>
   <button type="submit" id="submit-form" class="button is-medium" 
