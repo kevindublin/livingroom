@@ -49,3 +49,9 @@ as a guide from beyond.<br/>
 <br/>
 
 ---
+
+Eternal gratitude to [The Artist Power Convenings](https://ybca.org/artist-power-convenings/) initiative at [Yerba Buena Center for the Arts](https://ybca.org/) for the grant that allows us to pay our first season of readers. I found out about the opportunity through their new platform, the [Artist Power Center](https://ybca.org/artist-power-center/) which shares opportunities for local artists. You can [join the waitlist for the public beta here](https://artistpowercenter.org/). Thank you for supporting our community! You are greatly appreciated, [YBCA](https://www.instagram.com/ybca/)!
+
+![Yerba Buena Center for the Arts Logo](../static/images/ybca-logo.png)
+
+---
