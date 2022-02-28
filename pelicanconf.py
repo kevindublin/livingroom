@@ -4,6 +4,8 @@
 AUTHOR = 'Kevin Dublin'
 SITENAME = 'The Living Room'
 SITEURL = 'https://thelivingroomsf.com'
+GOOGLE_ANALYTICS = 'G-NEWZP9YR8C'
+GOOGLE_SITE_VERIFICATION = ''
 
 PATH = 'content'
 STATIC_PATHS = ['images', 'pdfs']
