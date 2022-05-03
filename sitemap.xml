@@ -5,42 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://thelivingroomsf.com/</loc>
-<lastmod>2022-02-27T19:17:41-00:00</lastmod>
+<lastmod>2022-05-03T01:10:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/about/</loc>
-<lastmod>2022-02-27T19:17:41-00:00</lastmod>
+<lastmod>2022-05-03T01:10:26-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/contact/</loc>
-<lastmod>2022-02-27T19:17:41-00:00</lastmod>
+<lastmod>2022-05-03T01:10:26-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/curators/</loc>
-<lastmod>2022-02-27T19:17:41-00:00</lastmod>
+<lastmod>2022-05-03T01:10:26-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/partners/</loc>
-<lastmod>2022-02-27T19:17:41-00:00</lastmod>
+<lastmod>2022-05-03T01:10:26-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/venue/</loc>
-<lastmod>2022-02-27T19:17:41-00:00</lastmod>
+<lastmod>2022-05-03T01:10:26-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://thelivingroomsf.com/events/2022-apr.html</loc>
+<lastmod>2022-04-22T00:00:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://thelivingroomsf.com/events/2022-mar.html</loc>
+<lastmod>2022-03-25T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://thelivingroomsf.com/events/category/events.html</loc>
-<lastmod>2022-02-25T00:00:00-07:53</lastmod>
+<lastmod>2022-04-22T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
