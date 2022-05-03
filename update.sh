@@ -3,7 +3,20 @@
 # PUSH TO GITHUB PAGES BRANCH
 
 
-pelican content -o output -s pelicanconf.py
-ghp-import output
-git push origin gh-pages
+echo -n "updating pelican site..."
+sleep 2s
+. "`pipenv --venv`/bin/activate"
+update () {
+	
+	pelican content -o output -s pelicanconf.py
+	ghp-import output
+	git push origin gh-pages
+  	# update and push
+}
+
+
+update
+
+
+
 

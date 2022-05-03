@@ -269,6 +269,10 @@ th {
     content: '\e806'
 }
 
+.ic-patreon:before {
+	content: '\f3d9'
+}
+
 .ic-arrow-right:before {
     content: '\e807'
 }

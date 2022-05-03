@@ -6,6 +6,8 @@ header_cover: ../static/images/about-header.png
 
 About the Series
 
+![photo of Feb 2022 Show](../static/images/rebirth_show.jpg)
+
 Join us in the living room at Manny's on the Fourth Friday of each month for intimate poetry performances, ideas, and conversation. Based in the Mission district of San Francisco, Each 90 minute event has a theme, set of at least five poets, 15 minute intermission of open discussion about a question that affects Bay Area residents or the world at-large, and a [community partner](https://thelivingroomsf.com/partners/) who uplifts vulnerable populations that we spotlight to help raise awareness and solicit donations of funds or time for their cause.
 
 You can see previous themes on the [homepage](https://thelivingroomsf.com/). Some upcoming themes include: Homeland, Math, Extinction, Rebirth, and Mindfulness.

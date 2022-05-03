@@ -86,10 +86,12 @@ LINKS = (("Manny's", "https://welcometomannys.com/"),
 
 # Social widget
 SOCIAL = (('instagram', 'https://www.instagram.com/livingroom_sf/'),
-          ('twitter', 'https://www.twitter.com/livingroom_sf/'),)
+          ('twitter', 'https://www.twitter.com/livingroom_sf/'),
+          ('patreon', 'https://www.patreon.com/livingroom_sf'))
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
 MAILER_LITE = True
+SHOW_FULL_ARTICLE = False
