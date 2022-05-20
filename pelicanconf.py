@@ -8,7 +8,6 @@ GOOGLE_ANALYTICS = 'G-NEWZP9YR8C'
 GOOGLE_SITE_VERIFICATION = ''
 
 PATH = 'content'
-STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'America/Los_Angeles'
 
