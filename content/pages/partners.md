@@ -17,6 +17,3 @@ Community Partner: The [**City of Dreams** Mentoring Program](https://www.cityof
 
 Community Partner: Progressive California AD candidate **[Jennifer Esteen](https://www.jenniferesteen.com/)**. Jennifer is a nurse, mother, and trustee of Alameda Health Systems, and has already helped usher legislation into existence. She knows firsthand the struggles that our families and communities face and will work tirelessly to ensure corporations and special interests pay their fair share, so everyone has access to housing they can afford, healthcare they deserve, and a quality education.
 
-<img src="../static/images/access-rj.png" alt="Access Reproductive Justice Logo" height="150"/>
-
-Community Partner: **[Access Reproductive Justice](https://accessrj.org/about-access-rj/)** removes barriers to sexual and reproductive Health care and builds the power of Californians to demand health, justice, and dignity.
