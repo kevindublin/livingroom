@@ -28,11 +28,14 @@
                     {% elif article.summary %}
                         {{ article.summary|striptags|truncate(250) }}
                     {% endif %}
+                    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}"> ... Read more.</a>
                     </p>
                     <br />
                     {% if article.video %}
                     	<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ article.video }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 	
                     {% endif %}
+                    <br />
+                    <p align="center"><button style="background:#FF424D;color:white;border-radius: 5px;border-color:#141518;" onclick="window.location.href='https://www.patreon.com/bePatron?u=7459568';">Support as Patron</button></p>
                 </section>
             {% endif %}
             {% include 'partials/comments_count.html' %}
