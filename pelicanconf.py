@@ -74,7 +74,7 @@ FAVICON = 'static/images/favicon.ico'
 LOGO = 'static/images/logo.png'
 
 # Theme Specific Settings
-HEADER_COVER = 'static/images/header.png'
+HEADER_COVER = 'static/images/header-home.png'
 # CSS_OVERRIDE = 
 # HEADER_COLOR = 'black'
 COLOR_SCHEME_CSS = 'darkly.css'
