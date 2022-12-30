@@ -13,7 +13,24 @@ Community Partner: The **[Eviction Defense Collaborative](https://evictiondefens
 
 Community Partner: The [**City of Dreams** Mentoring Program](https://www.cityofdreams.org/) helps San Francisco Youth who live in public housing, ages 8-24, discover and achieve their potential by offering them experiences and mentorship.
 
+
+<!--
 <img src="../static/images/esteen4ca-logo.png" alt="Jennifer Esteen Logo" height="150"/>
 
-Community Partner: Progressive California AD candidate **[Jennifer Esteen](https://www.jenniferesteen.com/)**. Jennifer is a nurse, mother, and trustee of Alameda Health Systems, and has already helped usher legislation into existence. She knows firsthand the struggles that our families and communities face and will work tirelessly to ensure corporations and special interests pay their fair share, so everyone has access to housing they can afford, healthcare they deserve, and a quality education.
+Community Partner: Progressive California AD candidate **[Jennifer Esteen](https://www.jenniferesteen.com/)**. Jennifer is a nurse, mother, and trustee of Alameda Health Systems, and has already helped usher legislation into existence. She knows firsthand the struggles that our families and communities face and will work tirelessly to ensure corporations and special interests pay their fair share, so everyone has access to housing they can afford, healthcare they deserve, and a quality education.-->
+
+<img src="../static/images/andina.jpg" alt="Andina's Kitchen Logo" height="150"/>
+
+Kitchen Table Seat: [Andina's Kitchen](https://www.instagram.com/andinavzla/), born at [La Cocina SF](https://lacocinasf.org/mission), serves Venezuelan comfort food with style!
+
+Kitchen Table Seat: [Deathless Coffee]()
+
+<img src="../static/images/over-yonder-bakehouse.jpg" alt="Over Yonder Bakehouse Logo" height="150"/>
+
+Kitchen Table Seat: [Over Yonder Bakehouse](https://www.instagram.com/overyonderbakehouse/) is a Bay Area micro bakery with fantastic vegan pastries.
+
+<img src="../static/images/york-street-coffee.jpg" alt="York Street Coffee Logo" height="150"/>
+
+Kitchen Table Seat: [York Street Coffee](https://www.instagram.com/yorkstreetsf/) is a gathering place on 25th and York in the Mission & a coffee popup.
+
 

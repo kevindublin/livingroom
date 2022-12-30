@@ -5,42 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://thelivingroomsf.com/</loc>
-<lastmod>2022-11-17T01:09:04-00:00</lastmod>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/about/</loc>
-<lastmod>2022-11-17T01:09:04-00:00</lastmod>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/contact/</loc>
-<lastmod>2022-11-17T01:09:04-00:00</lastmod>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/curators/</loc>
-<lastmod>2022-11-17T01:09:04-00:00</lastmod>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://thelivingroomsf.com/kitchen-table/</loc>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/partners/</loc>
-<lastmod>2022-11-17T01:09:04-00:00</lastmod>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://thelivingroomsf.com/venue/</loc>
-<lastmod>2022-11-17T01:09:04-00:00</lastmod>
+<lastmod>2022-12-30T13:38:50-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
