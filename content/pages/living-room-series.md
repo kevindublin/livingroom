@@ -2,6 +2,7 @@ Title: The Living Room
 Slug: living-room-series
 Summary: About the Living Room Reading Series & Salon.
 header_cover: ../static/images/about-header.png
+event_id: 475899888377
 
 
 ## About the Series
@@ -12,18 +13,33 @@ Join us in the living room at Syzygy on the Fourth Friday of each month for inti
 
 You can see previous themes on the [homepage](https://thelivingroomsf.com/). Some upcoming themes include: Renewal, Excellence, Education, and Cruelty.
 
-Most events will have the structure:
+---
 
-- 2 minutes introduction to theme
-- 3 minutes word from community partner
-- 15-20 minutes first set of readers
-- 15 minutes open discussion of theme among audience
-- 10-15 minutes second set of readers
-- 2 minute in closing and final community partner shoutout
+<div id="eventbrite-widget-container-475899888377"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '475899888377',
+        iframeContainerId: 'eventbrite-widget-container-475899888377',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
+---
 
 If you had to sum up the spirt of the show in a poem, it might come closest with "The Guest House" by Jalāl ad-Dīn Mohammad Rūmī, the 13th century Persian poet who reminds us to welcome, be grateful for the full range of human emotion and experience because of what it might lead to, and to be empathetic to others who may be experiencing a guest different than your own at the moment:
 
----
 
 <strong>The Guest House | Rumi</strong>, <em>translation by Coleman Barks</em>
 

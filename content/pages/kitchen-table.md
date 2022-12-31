@@ -2,6 +2,7 @@ Title: The Kitchen Table
 Slug: kitchen-table
 Summary: About the Kitchen Table Series
 header_cover: ../static/images/kitchen-table-pilot.jpg
+event_id: 499332245187
 
 
 ## About Kitchen Table
@@ -20,7 +21,30 @@ Created by Paolo Bicchieri & Lucie Pereira, co-produced with Kevin Dublin, [Kitc
 
 - <a href="https://linktr.ee/BolitaMasa" target="_blank">Bolita Masa</a>
 
-Get [tickets for Friday, January 13, April 14, July 14, and October 13 here](https://www.eventbrite.com/e/kitchen-table-2023-tickets-499332245187?aff=livingroom). See you at <a href="https://www.syzygysf.com/" target="_blank">Syzygy SF</a>!
+---
+
+<div id="eventbrite-widget-container-499332245187"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '499332245187',
+        iframeContainerId: 'eventbrite-widget-container-499332245187',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
+See you at <a href="https://www.syzygysf.com/" target="_blank">Syzygy SF</a>!
 
 
 ---

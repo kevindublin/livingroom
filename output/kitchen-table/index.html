@@ -109,7 +109,29 @@
 <ul>
 <li><a href="https://linktr.ee/BolitaMasa" target="_blank">Bolita Masa</a></li>
 </ul>
-<p>Get <a href="https://www.eventbrite.com/e/kitchen-table-2023-tickets-499332245187?aff=livingroom">tickets for Friday, January 13, April 14, July 14, and October 13 here</a>. See you at <a href="https://www.syzygysf.com/" target="_blank">Syzygy SF</a>!</p>
+<hr>
+<div id="eventbrite-widget-container-499332245187"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '499332245187',
+        iframeContainerId: 'eventbrite-widget-container-499332245187',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
+<p>See you at <a href="https://www.syzygysf.com/" target="_blank">Syzygy SF</a>!</p>
 <hr>
 <p><img alt="photo of Kitchen Table pilot 2 author Preeti Vangani" src="../static/images/KT-pilot5.jpg"></p>
 <hr>
@@ -168,6 +190,24 @@ var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime
 _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
 
 var ml_account = ml('accounts', '3554354', 'k9z4m0l8e2', 'load');
+</script>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '',
+        iframeContainerId: 'eventbrite-widget-container-',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
 </script>
 </body>
 </html>
