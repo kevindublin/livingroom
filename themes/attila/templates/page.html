@@ -22,7 +22,15 @@
           </span>
         </nav>
         <h1 class="post-title">{{ page.title }}</h1>      
-        {% if page.header_cover %}
+        {% if page.header_video %}
+        	<iframe 
+  				class="bg-video"
+  				src="https://www.youtube.com/embed/JHDesB_WkUw?controls=0&autoplay=1&mute=1&modestbranding=1&showinfo=0&fs=1&loop=1&playlist=JHDesB_WkUw"
+  				frameBorder="0"
+  				allow="autoplay"
+  				style="position: absolute; left: 0; top: 0; background-size: cover; background: no-repeat center; margin-left: 0vw; user-select: none; pointer-events: none; filter: grayscale(0.99); min-width: 110%; min-height: 100%;">
+				</iframe>
+        {% elif page.header_cover %}
             <div class="post-cover cover" style="background-image: url('{{ page.header_cover }}')">
         {% elif HEADER_COVER %}
             <div class="post-cover cover" style="background-image: url('{{ HEADER_COVER }}')">            

@@ -3,6 +3,7 @@ Slug: living-room-series
 Summary: About the Living Room Reading Series & Salon.
 header_cover: ../static/images/about-header.png
 event_id: 475899888377
+header_video: True
 
 
 ## About the Reading Series & Salon

@@ -2,6 +2,7 @@ Title: The Living Room
 Slug: about
 Summary: About the Living Room Reading Series & Salon.
 header_cover: ../static/images/about-header.png
+header_video: True
 
 
 ## About the Living Room
