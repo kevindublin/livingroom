@@ -11,17 +11,11 @@ Created by Paolo Bicchieri & Lucie Pereira, co-produced with Kevin Dublin, [Kitc
 
 ![photo of Kitchen Table logo](../static/images/kitchen-table-logo.jpg)
 
-### Featured January Writers
-
-- <a href="https://www.jasonbayani.com/" target="_blank">Jason Bayani (poetry)</a>
-- <a href="https://www.dariussimpson.com/" target="_blank">Darius Simpson (poetry)</a>
-- <a href="https://rabidpixie.tumblr.com/bio" target="_blank">Kristee Ono (food writing & comedy)</a>
-
-### Pop-up January Collaborator
-
-- <a href="https://linktr.ee/BolitaMasa" target="_blank">Bolita Masa</a>
-
 ---
+
+## Upcoming Tickets
+
+<br />
 
 <div id="eventbrite-widget-container-499332245187"></div>
 

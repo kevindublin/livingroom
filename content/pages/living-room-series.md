@@ -5,15 +5,17 @@ header_cover: ../static/images/about-header.png
 event_id: 475899888377
 
 
-## About the Series
+## About the Reading Series & Salon
 
-![photo of Feb 2022 Show](../static/images/rebirth_show.jpg)
-
-Join us in the living room at Syzygy on the Fourth Friday of each month for intimate poetry performances, ideas, and conversation. Based in the Mission district of San Francisco, Each 90 minute event has a theme, set of at least five poets, 15 minute intermission of open discussion about a question that affects Bay Area residents or the world at-large. Quarterly, we have a [community partner](https://thelivingroomsf.com/partners/) who uplifts vulnerable populations that we spotlight to help raise awareness and solicit donations of funds or time for the cause.
+Join us in the living room at Syzygy SF on the Fourth Friday of each month for intimate poetry performances, ideas, and conversation. Based in the Mission district of San Francisco, Each 90 minute event has a theme, set of at least five poets, 15 minute intermission of open discussion about a question that affects Bay Area residents or the world at-large. Quarterly, we have a [community partner](https://thelivingroomsf.com/partners/) who uplifts vulnerable populations that we spotlight to help raise awareness and solicit donations of funds or time for the cause.
 
 You can see previous themes on the [homepage](https://thelivingroomsf.com/). Some upcoming themes include: Renewal, Excellence, Education, and Cruelty.
 
 ---
+
+## Upcoming Tickets
+
+<br />
 
 <div id="eventbrite-widget-container-475899888377"></div>
 
@@ -41,7 +43,8 @@ You can see previous themes on the [homepage](https://thelivingroomsf.com/). Som
 If you had to sum up the spirt of the show in a poem, it might come closest with "The Guest House" by Jalāl ad-Dīn Mohammad Rūmī, the 13th century Persian poet who reminds us to welcome, be grateful for the full range of human emotion and experience because of what it might lead to, and to be empathetic to others who may be experiencing a guest different than your own at the moment:
 
 
-<strong>The Guest House | Rumi</strong>, <em>translation by Coleman Barks</em>
+## The Guest House | Rumi
+<em>translation by Coleman Barks</em>
 
 This being human is a guest house.<br/>
 Every morning a new arrival.<br/>
@@ -65,3 +68,16 @@ Be grateful for whatever comes.<br/>
 because each has been sent<br/>
 as a guide from beyond.<br/>
 <br/>
+
+---
+
+![photo of Feb 2022 Show](../static/images/rebirth_show.jpg)
+
+---
+
+![photo of July 2022 Show](../static/images/22-july-show.jpg)
+
+---
+
+![photo of November 2022 Show](../static/images/22-nov-show.jpg)
+
