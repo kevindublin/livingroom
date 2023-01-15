@@ -14,7 +14,7 @@ The Living Room SF is focused on cultivating writers and writing community, so y
 
 | Dates | Time | Cost | Workshop | Scholarship |
 | ---- | --- | --- | --- | --- |
-| **Saturday** <br/> FEB 18 <br/> FEB 25 <br/> MAR 4| 12PM <br/> - <br/> 3:30PM | $75 | [ Crafting a Poetry Practice Sequence]() | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
+| **Saturday** <br/> FEB 18 <br/> FEB 25 <br/> MAR 4| 12PM <br/> - <br/> 3:30PM | $75 | [**Crafting a Poetry Practice**](../crafting-poetry-practice-class) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -33,7 +33,7 @@ The Living Room SF is focused on cultivating writers and writing community, so y
 
 | Dates | Time | Cost | Workshop | Scholarship |
 | ---- | --- | --- | --- | --- |
-| **Sunday** <br/> FEB 19 <br/> FEB 26 <br/> MAR 5 | 12PM <br/> - <br/> 3:30PM | $75 | [ Craft of Creative Writing Sequence]() | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
+| **Sunday** <br/> FEB 19 <br/> FEB 26 <br/> MAR 5 | 12PM <br/> - <br/> 3:30PM | $75 | [**Craft of Creative Writing**](../creative-writing-craft-class/) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
