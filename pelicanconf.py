@@ -88,7 +88,7 @@ SOCIAL = (('instagram', 'https://www.instagram.com/livingroom_sf/'),
           ('twitter', 'https://www.twitter.com/livingroom_sf/'),
           ('patreon', 'https://www.patreon.com/livingroom_sf'))
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
