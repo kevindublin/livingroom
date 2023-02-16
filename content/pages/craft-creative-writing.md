@@ -40,6 +40,20 @@ We will also share resources for building a writing practice each session.
 <input type="image" src="https://thelivingroomsf.com/static/images/register-button.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 </form>
 
+
+---
+
+## Teaching Artists
+
+Kevin Dublin (Feb 19, 26, Mar 5) 
+
+Dickson Lam (Feb 19, 26)
+
+David Maduli (Feb 19, 26)
+
+
+
+
 ---
 
 ### What is the TLR Writing Workshop Style?
