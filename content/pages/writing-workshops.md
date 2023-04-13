@@ -14,16 +14,16 @@ The Living Room SF is focused on cultivating writers and writing community, so y
 
 | Dates | Time | Cost | Workshop | Scholarship |
 | ---- | --- | --- | --- | --- |
-| **Saturday** <br/> FEB 18 <br/> FEB 25 <br/> MAR 4| 12PM <br/> - <br/> 3:30PM | $75 | [**Crafting a Poetry Practice**](../crafting-poetry-practice-class) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
+| **Saturday** <br/> APR 8 <br/> FEB 25 <br/> MAR 4| 12PM <br/> - <br/> 3:30PM | $75 | [**Crafting a Poetry Practice**](../crafting-poetry-practice-class) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="A95G3AR86MV7N">
 <table>
 <tr><td><input type="hidden" name="on0" value="Workshop Days">Choose a Date or Discounted Sequence</td></tr><tr><td><select name="os0">
-	<option value="FEB 18">FEB 18 $75.00 USD</option>
-	<option value="FEB 25">FEB 25 $75.00 USD</option>
-	<option value="MAR 4">MAR 4 $75.00 USD</option>
+	<option value="APR 8 (FEB 18 Makeup)">APR 8 (FEB 18 Makeup) | $75.00 USD</option>
+	<option value="FEB 25">FEB 25 | $75.00 USD</option>
+	<option value="MAR 4">MAR 4 | $75.00 USD</option>
 	<option value="3 Workshop Sequence">3 Workshop Sequence $200.00 USD</option>
 </select> </td></tr>
 </table>
@@ -40,9 +40,9 @@ The Living Room SF is focused on cultivating writers and writing community, so y
 <input type="hidden" name="hosted_button_id" value="GUDJBXCY8PZ4W">
 <table>
 <tr><td><input type="hidden" name="on0" value="Workshop Days">Choose a Date or Discounted Sequence</td></tr><tr><td><select name="os0">
-	<option value="FEB 19">FEB 19 $75.00 USD</option>
-	<option value="FEB 26">FEB 26 $75.00 USD</option>
-	<option value="MAR 5">MAR 5 $75.00 USD</option>
+	<option value="FEB 19">FEB 19 | $75.00 USD</option>
+	<option value="FEB 26">FEB 26 | $75.00 USD</option>
+	<option value="MAR 5">MAR 5 | $75.00 USD</option>
 	<option value="3 Workshop Sequence">3 Workshop Sequence $200.00 USD</option>
 </select> </td></tr>
 </table>

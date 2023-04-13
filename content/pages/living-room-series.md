@@ -72,7 +72,7 @@ as a guide from beyond.<br/>
 
 ---
 
-![photo of Feb 2022 Show](../static/images/rebirth_show.jpg)
+![photo of Jan 2023 Show](../static/images/23-jan-show.jpg)
 
 ---
 
