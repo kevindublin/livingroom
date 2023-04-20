@@ -91,7 +91,7 @@ SOCIAL = (('instagram', 'https://www.instagram.com/livingroom_sf/'),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 MAILER_LITE = True
 SHOW_FULL_ARTICLE = False
 EVENTBRITE = True
