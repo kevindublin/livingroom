@@ -23,16 +23,16 @@ We will also share resources for building a writing practice each session.
 
 | Dates | Time | Cost | Workshop | Scholarship |
 | ---- | --- | --- | --- | --- |
-| **Sunday** <br/> FEB 19 <br/> FEB 26 <br/> MAR 5 | 12PM <br/> - <br/> 3:30PM | $75 | ***Craft of Creative Writing*** | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
+| **Saturday** <br/> JUN 24 <br/> JUL 1 <br/> JUL 8 | 12PM <br/> - <br/> 3:30PM | $75 | ***Craft of Creative Writing*** | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="GUDJBXCY8PZ4W">
 <table>
 <tr><td><input type="hidden" name="on0" value="Workshop Days">Choose a Date or Discounted Sequence</td></tr><tr><td><select name="os0">
-	<option value="FEB 19">FEB 19 | $75.00 USD</option>
-	<option value="FEB 26">FEB 26 | $75.00 USD</option>
-	<option value="MAR 5">MAR 5 | $75.00 USD</option>
+	<option value="JUN 24">JUN 24| $75.00 USD</option>
+	<option value="JUL 1">JUL 1 | $75.00 USD</option>
+	<option value="JUL 8">JUL 8| $75.00 USD</option>
 	<option value="3 Workshop Sequence">3 Workshop Sequence | $200.00 USD</option>
 </select> </td></tr>
 </table>
@@ -45,11 +45,7 @@ We will also share resources for building a writing practice each session.
 
 ## Teaching Artists
 
-Kevin Dublin (Feb 19, 26, Mar 5) 
-
-Dickson Lam (Feb 19, 26)
-
-David Maduli (Feb 19, 26)
+[**Kevin Dublin**](https://kevindublin.com) (Jun 24, Jul 1, Jul 8) is an educator, economic justice advocate, and poet. As Director of Litquake’s Elder Writing Project & founder of The Living Room, he’s committed to helping nurture emerging writers of all ages. He is a Writers Studio Ralph Dickey Scholar and has received fellowships, grants, and awards from the San Francisco Arts Commission (SFAC), Yerba Buena Center for the Arts (YBCA), Center for Cultural Innovation (CCI), Association of Writers & Writing Programs, Martha’s Vineyard Institute of Creative Writing, and more. His words have recently appeared in The San Franciscan, Cincinnati Review, & NCLR. Kevin is the author of How to Fall in Love in San Diego (Finishing Line Press, 2017) and Eulogy (Raven & Wren Press, 2023). He resides in San Francisco, holds an MFA from San Diego State, and for a little Black boy from Smithfield, NC, believes he has been brought a mighty long way. 
 
 
 

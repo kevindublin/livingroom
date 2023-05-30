@@ -8,7 +8,7 @@ sleep 2s
 . "`pipenv --venv`/bin/activate"
 update () {
 	
-	pelican content -o output -s pelicanconf.py
+	pelican content -o output -s publishconf.py
 	ghp-import output
 	git push origin gh-pages
   	# update and push
