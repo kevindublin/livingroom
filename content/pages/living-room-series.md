@@ -16,6 +16,10 @@ You can see previous themes on the [homepage](https://thelivingroomsf.com/). Som
 
 ## Upcoming Tickets
 
+<center>
+<a href="https://www.eventbrite.com/e/juneteenth-poetry-reading-tickets-643036668987?aff=social"><img src="../static/images/23-juneteenth.jpg" alt="2023 Juneteenth Poetry Reading" height="150px"/></a>
+</center>
+
 <br />
 
 <div id="eventbrite-widget-container-475899888377"></div>

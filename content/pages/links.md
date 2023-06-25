@@ -2,11 +2,11 @@ Title: Links in Bio
 Slug: links
 Summary: Links in Bio for The Living Room SF
 Status: hidden
-header_cover: ../static/images/23-apr-show-alton.jpg
+header_cover: ../static/images/23-juneteenth-banner.jpg
 
 
-<center><a href="https://www.eventbrite.com/e/national-poetry-month-celebration-reading-tickets-579478895977?aff=social">Tickets to National Poetry Month Celebration</a></center>
-<a href="https://www.eventbrite.com/e/national-poetry-month-celebration-reading-tickets-579478895977?aff=social"><img src="../static/images/23-apr-show-alton.jpg" alt="2023 National Poetry Month Celebration" height="150px"/></a>
+<center><a href="https://www.eventbrite.com/e/juneteenth-poetry-reading-tickets-643036668987?aff=social">Tickets to Juneteenth Poetry Celebration</a></center>
+<a href="https://www.eventbrite.com/e/juneteenth-poetry-reading-tickets-643036668987?aff=social"><img src="../static/images/23-juneteenth.jpg" alt="2023 Juneteenth Poetry Reading" height="150px"/></a>
 
 <center><a href="https://www.eventbrite.com/e/living-room-reading-series-salon-2023-tickets-475899888377?aff=main">Tickets to Next Living Room Monthly Show</a></center>
 <a href="https://www.eventbrite.com/e/living-room-reading-series-salon-2023-tickets-475899888377?aff=main"><img src="../static/images/header-home.png" alt="2023 March Show" height="150px"/></a>
