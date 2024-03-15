@@ -13,7 +13,7 @@ We'll begin with the idea that writing is a way of using metaphor to make an arg
 2. Revising: Exploring what you want to say and how
 3. Beyond: Exploring where you want it to go and how
 
-Each of these parts involve reading, writing, and breaking down pieces alongside the methods, mediums, and forms of publication that they are a part of. This is a space to dive deeper into a genre of writing or explore new genres. You may encounter the work of Jenny Zhang alongside James Baldwin and Benjamin Alire Sáenz, Lidia Yuknavitch with Onono Komachi and Izumi Shikibu, or Maggie Nelson in the context of W.E.B DuBois.
+Each of these parts involve reading, writing, and breaking down pieces alongside the methods, mediums, and forms of publication that they are a part of. This is a space to dive deeper into a genre of writing or explore new genres. You may encounter the work of Jenny Zhang alongside James Baldwin and Benjamin Alire Sáenz, Lidia Yuknavitch with a scene from *Poor Things*, or Maggie Nelson in the context of W.E.B DuBois.
 
 We will also share resources for building a writing practice each session.
 

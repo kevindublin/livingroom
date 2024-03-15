@@ -14,16 +14,16 @@ The Living Room SF is focused on cultivating writers and writing community, so y
 
 | Dates | Time | Cost | Workshop | Scholarship |
 | ---- | --- | --- | --- | --- |
-| **Saturday** <br/> APR 8 <br/> FEB 25 <br/> MAR 4| 12PM <br/> - <br/> 3:30PM | $75 | [**Crafting a Poetry Practice**](../crafting-poetry-practice-class) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
+| **Tuesday** <br/> MAY 7 <br/> MAY 14 <br/> MAY 21 | 6:30PM <br/> - <br/> 8:00PM | $75 | [**Craft of Poetry: Origin Stories as Alchemy**](../crafting-poetry-practice-class) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="A95G3AR86MV7N">
 <table>
 <tr><td><input type="hidden" name="on0" value="Workshop Days">Choose a Date or Discounted Sequence</td></tr><tr><td><select name="os0">
-	<option value="APR 8 (FEB 18 Makeup)">APR 8 (FEB 18 Makeup) | $75.00 USD</option>
-	<option value="FEB 25">FEB 25 | $75.00 USD</option>
-	<option value="MAR 4">MAR 4 | $75.00 USD</option>
+	<option value="MAY 7">MAY 7 | $75.00 USD</option>
+	<option value="FEB 25">MAY 14 | $75.00 USD</option>
+	<option value="MAY 21">MAY 21 | $75.00 USD</option>
 	<option value="3 Workshop Sequence">3 Workshop Sequence $200.00 USD</option>
 </select> </td></tr>
 </table>
@@ -33,22 +33,26 @@ The Living Room SF is focused on cultivating writers and writing community, so y
 
 | Dates | Time | Cost | Workshop | Scholarship |
 | ---- | --- | --- | --- | --- |
-| **Sunday** <br/> FEB 19 <br/> FEB 26 <br/> MAR 5 | 12PM <br/> - <br/> 3:30PM | $75 | [**Craft of Creative Writing**](../creative-writing-craft-class/) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
+| **Thursday** <br/> MAY 9 <br/> MAY 16 <br/> MAY 23 | 6:30PM <br/> - <br/> 8PM | $75 | [**Craft of Creative Writing**](../creative-writing-craft-class/) | [Apply](https://forms.gle/zHjTARKvoeqmKMq46) | 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="GUDJBXCY8PZ4W">
 <table>
 <tr><td><input type="hidden" name="on0" value="Workshop Days">Choose a Date or Discounted Sequence</td></tr><tr><td><select name="os0">
-	<option value="FEB 19">FEB 19 | $75.00 USD</option>
-	<option value="FEB 26">FEB 26 | $75.00 USD</option>
-	<option value="MAR 5">MAR 5 | $75.00 USD</option>
+	<option value="MAY 9">MAY 9 | $75.00 USD</option>
+	<option value="MAY 16">MAY 16 | $75.00 USD</option>
+	<option value="MAY 23">MAY 23 | $75.00 USD</option>
 	<option value="3 Workshop Sequence">3 Workshop Sequence $200.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://thelivingroomsf.com/static/images/register-button.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 </form>
+
+### Apply for Scholarship
+<br/>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_YfpfgMLp0SdrTxcllxRtg9iYuvSzRw1ivG_cEWs3z0VjRA/viewform?embedded=true" width="640" height="1818" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### What does scholarship-first mean?
 Accessibility is important to us, so our workshops are scholarship-first. Meaning, we prioritize cost-free and half-off scholarships of our workshops for writers who have a less-than-stable income and who are at various stages of their writing practice in order to maintain support for a diverse group of writers.
@@ -66,7 +70,7 @@ Each workshop is capped at 12 participants. At least half of those spaces are re
 
 ### Where do the workshops take place?
 
-At [Syzygy SF](https://thelivingroomsf.com/venue/), which is at the intersection of 15th Street and South Van Ness. Walk over or bike if you're in the neighborhood (bike rack available). You can take BART to 16th & Mission and walk. There are also usually a few parking spots in a 2 block radius.
+At [TBD](https://thelivingroomsf.com/venue/), which is at ... You can take BART to 16th & Mission and walk.
 
 
 

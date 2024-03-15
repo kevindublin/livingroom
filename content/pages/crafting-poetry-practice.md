@@ -5,7 +5,7 @@ Status: hidden
 Lang: en
 header_cover: ../static/images/header-writing-workshops.png
 
-# Crafting a Poetry Practice
+# Crafting a Poetry Practice: Origin Stories as Alchemy
 
 Do you write poetry or want to write poems, but are unsure what do with them after? Have you not written lately and want to write? Each session in this series will contain (3) parts: 
 
